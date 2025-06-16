@@ -7,8 +7,8 @@ int main(){
     float number1,number2;
     char operator;
     printf("Enter the number: \n");
-    scanf("%f%f",&number1,&number2);
-    scanf("%c",&operator);
+    scanf("%f %c %f",&number1,&operator,&number2);
+
     switch(operator){
         case'+':
             printf("Addition: %.2f\n",number1+number2);
