@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-int marks;
+float marks;
 printf("Enter the marks: ");
-scanf("%d",&marks);
+scanf("%f",&marks);
 if(marks<1 || marks>100){
     printf("Please select marks between 1 to 100");
 }
@@ -40,4 +40,4 @@ else{
     printf("Grade:F");
 }
 return 0;
-}
+} 
