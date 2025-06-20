@@ -1,3 +1,4 @@
+![C Programming Language Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png)
 # Foundation-of-C-programming
 C programming is a powerful, general-purpose programming language that is widely used for system and application software development. It was developed in the early 1970s by Dennis Ritchie at Bell Labs.
 
