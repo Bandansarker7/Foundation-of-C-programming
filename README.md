@@ -5,3 +5,4 @@ Why Learn C?
 
 It builds a strong foundation for learning other languages like C++, Java, and Python.
 It helps you understand how computers work under the hood (memory, pointers, etc.)
+I have completed problemset-2 solution.
